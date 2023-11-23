@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Welcome to the IT Developer Page!"
 date:   2023-11-22 20:11:59 -0500
 categories: jekyll update
