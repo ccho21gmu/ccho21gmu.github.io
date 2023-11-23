@@ -12,9 +12,9 @@ categories: jekyll update
 -Inform appropriate parties of the results of work performed including the disclosure of all significant facts known to them that, if not disclosed, may distort the reporting of the results.
 -Support the professional education of stakeholders in enhancing their understanding of the governance and management of enterprise information systems and technology, including: audit, control, security and risk management
 
-![IT-Ethics](https://techhq.com/wp-content/uploads/2023/08/Artificial-intelligence-Ethics-11-1-861x484.jpg])
+![IT-Guide](https://techhq.com/wp-content/uploads/2023/08/Artificial-intelligence-Ethics-11-1-861x484.jpg])
 
-For more information about the Ethics for IT Developers, click on this link: [jekyll-docs]
+For more information about the Ethics of IT Developers, click on this link: [Guidelines-IT]
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
+[Guidelines-IT]: [https://jekyllrb.com/docs/home](https://www.freecodecamp.org/news/developer-ethics/)https://www.freecodecamp.org/news/developer-ethics/
 
